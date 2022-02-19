@@ -3,8 +3,8 @@
 ## Theme
 
 Nord theme  
-nord-vimium.css by mikowl  
-https://gist.github.com/mikowl/0ca291e4a1046b429f79700592c52814
+vimium-dark.css by Foldex  
+https://github.com/Foldex/vimium-dark-themes
 
 ## Excluded Sites
 
