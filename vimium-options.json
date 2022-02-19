@@ -10,11 +10,11 @@
       "passKeys": "/"
     },
     {
-      "pattern": "https://www.e-typing.ne.jp/*",
+      "pattern": "https://www.tumblr.com/dashboard",
       "passKeys": ""
     },
     {
-      "pattern": "https://www.tumblr.com/dashboard",
+      "pattern": "https://tweetdeck.twitter.com/",
       "passKeys": ""
     }
   ],
